@@ -1,0 +1,2 @@
+E:\курсовая_1\computer\Debug\computer.exe
+E:\курсовая_1\computer\Debug\computer.pdb

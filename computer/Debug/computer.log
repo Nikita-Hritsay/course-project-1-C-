@@ -1,0 +1,30 @@
+﻿  computer.cpp
+E:\курсовая_1\computer\computer.cpp(48,22): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(97,21): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(99,22): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(445,21): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(447,22): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(504,39): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+E:\курсовая_1\computer\computer.cpp(504,34): warning C4309: 'argument': truncation of constant value
+E:\курсовая_1\computer\computer.cpp(668,21): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(670,22): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(896,21): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(898,22): warning C4018: '<': signed/unsigned mismatch
+E:\курсовая_1\computer\computer.cpp(934,39): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+E:\курсовая_1\computer\computer.cpp(934,34): warning C4309: 'argument': truncation of constant value
+E:\курсовая_1\computer\computer.cpp(970,39): warning C4305: 'argument': truncation from 'int' to '_Elem'
+          with
+          [
+              _Elem=char
+          ]
+E:\курсовая_1\computer\computer.cpp(970,34): warning C4309: 'argument': truncation of constant value
+  computer.vcxproj -> E:\курсовая_1\computer\Debug\computer.exe

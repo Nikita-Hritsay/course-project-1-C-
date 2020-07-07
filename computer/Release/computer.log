@@ -1,0 +1,35 @@
+﻿  computer.cpp
+E:\курсовая_1\computer\computer.cpp(52,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(54,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(101,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(103,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(448,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(450,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(507,39): warning C4305: аргумент: усечение из "int" в "_Elem"
+          with
+          [
+              _Elem=char
+          ]
+E:\курсовая_1\computer\computer.cpp(507,34): warning C4309: аргумент: усечение константного значения
+E:\курсовая_1\computer\computer.cpp(671,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(673,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(899,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(901,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\курсовая_1\computer\computer.cpp(937,39): warning C4305: аргумент: усечение из "int" в "_Elem"
+          with
+          [
+              _Elem=char
+          ]
+E:\курсовая_1\computer\computer.cpp(937,34): warning C4309: аргумент: усечение константного значения
+E:\курсовая_1\computer\computer.cpp(973,39): warning C4305: аргумент: усечение из "int" в "_Elem"
+          with
+          [
+              _Elem=char
+          ]
+E:\курсовая_1\computer\computer.cpp(973,34): warning C4309: аргумент: усечение константного значения
+  Создание кода
+  2 of 259 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  computer.vcxproj -> E:\курсовая_1\computer\Release\computer.exe
